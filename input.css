@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'League Spartan', sans-serif;
+}
+
+/* main {
+    background-image: url(./images/bg-pattern-top-mobile.svg);
+    background-image: url(./images/bg-pattern-bottom-mobile.svg);
+} */
+
+
+/* npx tailwindcss -i ./input.css -o ./dist/output.css --watch */
